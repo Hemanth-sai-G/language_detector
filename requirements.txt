@@ -1,0 +1,17 @@
+# Language Detection Web Application - Requirements
+
+# Core web framework
+streamlit==1.28.0
+
+# Language detection libraries
+langdetect==1.0.9
+
+# Data handling
+pandas==2.1.0
+
+# Additional utilities
+numpy==1.24.0
+
+# Optional: For advanced language detection (commented out to keep it simple)
+transformers==4.35.0
+torch==2.1.0
